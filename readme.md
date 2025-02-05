@@ -13,7 +13,8 @@
 | 876 |        [Middle of the Linked List](src/MiddleOfTheLinkedList.java)         |    Easy    |    100%     |            Two Pointers (Fast = 2*Slow)             |
 
 ## List/Array
-| ID  |                                    Problem                                    | Difficulty | Beat (Time) |            Note            |
-|:---:|:-----------------------------------------------------------------------------:|:----------:|:-----------:|:--------------------------:|
-| 26  | [Remove Duplicate From Sorted Array](src/RemoveDuplicateFromSortedArray.java) |    Easy    |    100%     | Two Pointers (Fast & Slow) |
-| 167 |            [Two Sum II - Input Array Is Sorted](src/TwoSumII.java)            |   Medium   |   93.14%    | Two Pointers (Head & Tail) |
+| ID  |                                    Problem                                    | Difficulty | Beat (Time) |                      Note                      |
+|:---:|:-----------------------------------------------------------------------------:|:----------:|:-----------:|:----------------------------------------------:|
+| 26  | [Remove Duplicate From Sorted Array](src/RemoveDuplicateFromSortedArray.java) |    Easy    |    100%     |           Two Pointers (Fast & Slow)           |
+| 27  |                   [Remove Element](src/RemoveElement.java)                    |    Easy    |    100%     | Two Pointers (Fast & Slow), very similar to 26 |
+| 167 |            [Two Sum II - Input Array Is Sorted](src/TwoSumII.java)            |   Medium   |   93.14%    |           Two Pointers (Head & Tail)           |
