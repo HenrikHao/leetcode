@@ -15,7 +15,7 @@
 ## List/Array
 | ID  |                                    Problem                                    | Difficulty | Beat (Time) |                           Note                           |
 |:---:|:-----------------------------------------------------------------------------:|:----------:|:-----------:|:--------------------------------------------------------:|
-|  5  |            [Longest Palindromic Substring](src/ReverseString.java)            |   Medium   |   58.83%    |      Two Pointers (Middle), DP as optional solution      |
+|  5  |     [Longest Palindromic Substring](src/LongestPalindromicSubstring.java)     |   Medium   |   58.83%    |      Two Pointers (Middle), DP as optional solution      |
 | 26  | [Remove Duplicate From Sorted Array](src/RemoveDuplicateFromSortedArray.java) |    Easy    |    100%     |           Two Pointers (Fast & Slow), in-place           |
 | 27  |                   [Remove Element](src/RemoveElement.java)                    |    Easy    |    100%     | Two Pointers (Fast & Slow), very similar to 26, in-place |
 | 283 |                      [Move Zeroes](src/MoveZeroes.java)                       |    Easy    |   84.76%    | Two Pointers (Fast & Slow), very similar to 26, in-place |
