@@ -21,3 +21,8 @@
 | 283 |                      [Move Zeroes](src/MoveZeroes.java)                       |    Easy    |   84.76%    | Two Pointers (Fast & Slow), very similar to 26, in-place |
 | 167 |            [Two Sum II - Input Array Is Sorted](src/TwoSumII.java)            |   Medium   |   93.14%    |                Two Pointers (Head & Tail)                |
 | 344 |                   [Reverse String](src/ReverseString.java)                    |    Easy    |    100%     |                Two Pointers (Head & Tail)                |
+
+## Sliding Window
+| ID |                                                Problem                                                | Difficulty | Beat (Time) |      Note      |
+|:--:|:-----------------------------------------------------------------------------------------------------:|:----------:|:-----------:|:--------------:|
+| 3  | [Longest Substring Without Repeating Characters](src/LongestSubstringWithoutRepeatingCharacters.java) |   Medium   |   38.41%    | Sliding Window |
