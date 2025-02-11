@@ -23,7 +23,8 @@
 | 344 |                   [Reverse String](src/ReverseString.java)                    |    Easy    |    100%     |                Two Pointers (Head & Tail)                |
 
 ## Sliding Window
-| ID  |                                                Problem                                                | Difficulty | Beat (Time) |      Note      |
-|:---:|:-----------------------------------------------------------------------------------------------------:|:----------:|:-----------:|:--------------:|
-|  3  | [Longest Substring Without Repeating Characters](src/LongestSubstringWithoutRepeatingCharacters.java) |   Medium   |   38.41%    | Sliding Window |
-| 438 |                  [Find All Anagrams in a String](src/FindAllAnagramsinaString.java)                   |   Medium   |   46.29%    | Sliding Window |
+| ID  |                                                Problem                                                | Difficulty | Beat (Time) |             Note             |
+|:---:|:-----------------------------------------------------------------------------------------------------:|:----------:|:-----------:|:----------------------------:|
+|  3  | [Longest Substring Without Repeating Characters](src/LongestSubstringWithoutRepeatingCharacters.java) |   Medium   |   38.41%    |        Sliding Window        |
+| 438 |                  [Find All Anagrams in a String](src/FindAllAnagramsinaString.java)                   |   Medium   |   46.29%    |        Sliding Window        |
+| 567 |                         [Permutation in String](src/PermutationInString.java)                         |   Medium   |   39.01%    | Sliding Window (Same as 438) |
