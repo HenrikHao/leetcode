@@ -29,3 +29,8 @@
 | 76  |                      [Minimum Window Substring](src/MinimumWindowSubstring.java)                      |    Hard    |   52.90%    |        Sliding Window        |
 | 438 |                  [Find All Anagrams in a String](src/FindAllAnagramsinaString.java)                   |   Medium   |   46.29%    |        Sliding Window        |
 | 567 |                         [Permutation in String](src/PermutationInString.java)                         |   Medium   |   39.01%    | Sliding Window (Same as 438) |
+
+## Binary Search
+| ID  |                Problem                 | Difficulty | Beat (Time) |     Note      |
+|:---:|:--------------------------------------:|:----------:|:-----------:|:-------------:|
+| 704 | [Binary Search](src/BinarySearch.java) |    Easy    |    100%     | Binary Search |
